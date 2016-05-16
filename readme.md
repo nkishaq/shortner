@@ -5,7 +5,10 @@ A URL shortner service is that takes a long URL and generates a shorter version 
 ## Technology
 	
 * Laravel 5.1
+* MySQL
 * Angularjs
+* jQuery
+* Bootstrap
 
 
 ## Installation
